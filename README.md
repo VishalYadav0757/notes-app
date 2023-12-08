@@ -1,2 +1,2 @@
-# notes-app
-Note tracker application made using Node.js
+# Notes Application
+Notes tracker application made using Node.js
