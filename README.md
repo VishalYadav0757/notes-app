@@ -21,13 +21,13 @@ Notes tracker application made using Node.js
 
 Adds your note with title and body provided to a JSON file.
 
-\*\* Note: --title and --body arguments are required for adding the note !!
+**Note: --title and --body arguments are required for adding the note !!
 
 ### `node app.js remove --title="note title"`
 
 Removes the note from the JSON file matching with the title you provide.
 
-\*\* Note: --title argument is required for removing the note !!
+**Note: --title argument is required for removing the note !!
 
 ### `node app.js list`
 
@@ -36,3 +36,5 @@ Lists all the notes you created.
 ### `node app.js read --title="note title"`
 
 Shows the note content matching with the title you provide.
+
+**Note: --title argument is required for reading the note !!
